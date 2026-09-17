@@ -2,8 +2,22 @@
     "version": "3.0.0",
     "version_name": "3.0.0 联机测试版",
     "release_date": "2026-09-11",
-    "download_url": "https://github.com/louxiaole/RustServerManager/releases/download/v3.0.0/Rust-Solo-Tools.zip",
+    "download_url": "https://github.com/louxiaole/RustServerManager/releases/download/v3.0.0/Rust-Solo-Tools3.0.0beta.zip",
     "file_size": 127324258,
     "min_required_version": null,
-    "changelog_html": "<div style="font-family: 'Microsoft YaHei', sans-serif;"><div style="text-align: center; margin-bottom: 10px;"><span style="font-size: 20px; font-weight: bold; color: #c0392b;">🔥 v3.0.0 联机测试版</span><br><span style="font-size: 12px; color: #7f8c8d;">2026.9.11</span></div><div style="background: #f8d7da; border: 1px solid #f5b7b1; border-radius: 6px; padding: 8px; margin-bottom: 10px;"><span style="color: #c0392b; font-weight: bold;">🎉 重大更新！！！</span></div><div style="line-height: 1.8;"><p>1：一键安装推荐方式改为「本地直接部署」<br><span style="color: #7f8c8d; font-size: 12px;">默认选中本地部署模式，直接使用工具自带的 SteamCMD 一键安装</span></p><p>2：联机功能初步开发测试<br><span style="color: #7f8c8d; font-size: 12px;">支持 ZeroTier / 樱花 FRP / 局域网 三种模式，自动生成 connect 命令</span></p><p>3：优化部分功能运行逻辑<br><span style="color: #7f8c8d; font-size: 12px;">修复卡顿问题，优化状态缓存和刷新频率</span></p><p>4：💰 添加赞助功能<br><span style="color: #7f8c8d; font-size: 12px;">每累积启动 5 次弹窗提醒，可永久关闭，完全自愿</span></p><p>5：添加服务器 PVP / PVE 模式设置<br><span style="color: #7f8c8d; font-size: 12px;">服务器控制页和联机页均新增游戏模式切换</span></p></div></div>"
+    "changelog_html": "
+🔥 v3.0.0 联机测试版
+2026.9.11
+🎉 重大更新！！！
+1：一键安装推荐方式改为「本地直接部署」
+默认选中本地部署模式，直接使用工具自带的 SteamCMD 一键安装
+2：联机功能初步开发测试
+支持 ZeroTier / 樱花 FRP / 局域网 三种模式，自动生成 connect 命令
+3：优化部分功能运行逻辑
+修复卡顿问题，优化状态缓存和刷新频率
+4：💰 添加赞助功能
+每累积启动 5 次弹窗提醒，可永久关闭，完全自愿
+5：添加服务器 PVP / PVE 模式设置
+服务器控制页和联机页均新增游戏模式切换
+"
 }
