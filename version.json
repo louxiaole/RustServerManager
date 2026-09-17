@@ -1,11 +1,4 @@
-{
-    "version": "3.0.0",
-    "version_name": "3.0.0 联机测试版",
-    "release_date": "2026-09-11",
-    "download_url": "https://github.com/louxiaole/RustServerManager/releases/download/v3.0.0/Rust-Solo-Tools3.0.0beta.zip",
-    "file_size": 127324258,
-    "min_required_version": null,
-    "changelog_html": "
+{"version": "3.0.0","version_name": "3.0.0 联机测试版","release_date": "2026-09-11","download_url": "https://github.com/louxiaole/RustServerManager/releases/download/v3.0.0/Rust-Solo-Tools3.0.0beta.zip","file_size": 127324258,"min_required_version": null,"changelog_html": "
 🔥 v3.0.0 联机测试版
 2026.9.11
 🎉 重大更新！！！
@@ -19,5 +12,4 @@
 每累积启动 5 次弹窗提醒，可永久关闭，完全自愿
 5：添加服务器 PVP / PVE 模式设置
 服务器控制页和联机页均新增游戏模式切换
-"
-}
+"}
